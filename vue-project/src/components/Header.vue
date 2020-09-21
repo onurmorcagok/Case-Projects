@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="header mb-5">
     <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
       <router-link class="nav-link" to="/">
         <img class="img" src="https://cdn.baymak.com.tr/assets/svg/baymak--logo.svg" />
@@ -59,6 +59,9 @@ export default {
 </script>
 
 <style scoped>
+.header {
+  margin-top: 150px;
+}
 .img {
   width: 150px;
 }
