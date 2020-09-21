@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
       <router-link class="nav-link" to="/">
         <img class="img" src="https://cdn.baymak.com.tr/assets/svg/baymak--logo.svg" />
       </router-link>
