@@ -7,7 +7,7 @@ Calculator application consisting of four basic operations developed with .Net C
 
 # N11-Bot
 
-Bot application built with Python, using Selenium Webdriver. In practice, the purpose is to go to the n11 website and perform the login process, and search the "SAMSUNG" keyword in the search section to bring the results with SAMSUNG in it.
+Bot application built with Python, using Selenium Webdriver. In practice, the purpose is to go to the n11 website and perform the login process, and search the "SAMSUNG" keyword in the search section to bring the results with SAMSUNG in it. (E-mail and Password variables are left "blank".)
 
 # Vue-Project
 
