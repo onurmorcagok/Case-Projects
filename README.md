@@ -1,6 +1,7 @@
 # Case-Projects
 
 
+
 # Calculator Case
 
 Calculator application consisting of four basic operations developed with .Net Core / WPF. In practice, the purpose is to add, subtract, multiply or divide the two numbers entered.
